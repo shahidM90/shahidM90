@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahidM90
 - 👀 I’m interested in home servers 
-- 🌱 I’m currently learning how to edit a yaml file
+- 🌱 I’m currently learning how to edit a yaml file in a docker container on MacOS 
 - 📫 How to reach me --> shahidmohamed90@gmail.com
 
 <!---
