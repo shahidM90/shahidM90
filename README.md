@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shahidM90
 - 👀 I’m interested in home servers 
 
-- 📫 How to reach me --> shahidmohamed90@gmail.com
 
 <!---
 shahidM90/shahidM90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
